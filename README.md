@@ -1,10 +1,10 @@
 # MoneyZap 💸
 
-> SaaS de finanças pessoais com separação PF/PJ — construído, colocado em produção e **vendido a cliente**.
+> SaaS de finanças pessoais com separação PF/PJ: construído, colocado em produção e **vendido a cliente**.
 
 ## O problema
 
-Autônomos e microempresários misturam finanças pessoais e da empresa — e no fim do mês não sabem o que é lucro, o que é salário e o que é caixa do negócio.
+Autônomos e microempresários misturam finanças pessoais e da empresa. No fim do mês, não sabem o que é lucro, o que é salário e o que é caixa do negócio.
 
 ## A solução
 
@@ -22,9 +22,9 @@ O MoneyZap organiza as finanças com **separação clara entre PF e PJ**: lança
 
 ## Status
 
-💰 **Vendido** — o produto foi adquirido por cliente e segue em operação.
+💰 **Vendido**: o produto foi adquirido por cliente e segue em operação.
 
-> 🔒 Este repositório é a vitrine do produto — o código-fonte pertence ao comprador.
+> 🔒 Este repositório é a vitrine do produto. O código-fonte pertence ao comprador.
 
 ---
 
