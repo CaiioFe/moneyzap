@@ -2,8 +2,12 @@
 
 > SaaS de finanças pessoais com separação PF/PJ: construído, colocado em produção e **vendido a cliente**.
 
-![Home](screenshots/01-home.png)
-![Dashboard](screenshots/02-dashboard.png)
+<table>
+<tr>
+<td width="50%"><img src="screenshots/01-home.png" /><br><sub>Landing page</sub></td>
+<td width="50%"><img src="screenshots/02-dashboard.png" /><br><sub>Dashboard (dados de demonstração)</sub></td>
+</tr>
+</table>
 
 ## O problema
 
