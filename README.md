@@ -3,6 +3,7 @@
 > SaaS de finanças pessoais com separação PF/PJ: construído, colocado em produção e **vendido a cliente**.
 
 ![Home](screenshots/01-home.png)
+![Dashboard](screenshots/02-dashboard.png)
 
 ## O problema
 
